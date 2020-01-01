@@ -5,8 +5,8 @@ $Descr User 7087 4724
 encoding utf-8
 Sheet 1 1
 Title "AGC for NIUNIU"
-Date "2019-12-31"
-Rev "V01"
+Date "2020-01-01"
+Rev "v01.c"
 Comp "CQ11"
 Comment1 ""
 Comment2 ""
@@ -19,7 +19,7 @@ U 1 1 5E083BF4
 P 2450 1850
 F 0 "Q1" H 2640 1896 50  0000 L CNN
 F 1 "MMBT3904" H 2640 1805 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 2650 1775 50  0001 L CIN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 2650 1775 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 2450 1850 50  0001 L CNN
 	1    2450 1850
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 5E08451C
 P 4350 1600
 F 0 "Q2" H 4554 1646 50  0000 L CNN
 F 1 "2N7002" H 4554 1555 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 4550 1525 50  0001 L CIN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4550 1525 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" H 4350 1600 50  0001 L CNN
 	1    4350 1600
 	1    0    0    -1  
@@ -289,7 +289,7 @@ U 1 1 5E0ABF4F
 P 5600 1750
 F 0 "J1" H 5518 2067 50  0000 C CNN
 F 1 "Conn_01x04" H 5518 1976 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal" H 5600 1750 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 5600 1750 50  0001 C CNN
 F 3 "~" H 5600 1750 50  0001 C CNN
 	1    5600 1750
 	-1   0    0    -1  
